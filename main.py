@@ -1,5 +1,5 @@
-# TO-DO = Convert Hexadecimals to 64
-# HIPERCODE
+# Paste into any python IDE, I used Pycharm.
+# HYPER Cypher
 top = []
 bot = []
 let = []
